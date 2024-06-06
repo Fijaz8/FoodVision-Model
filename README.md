@@ -11,6 +11,10 @@ Here is a demonstration of the FoodVision model in action:
 
 
 
+https://github.com/Fijaz8/FoodVision-Model/assets/123264875/9910e9ba-7b64-4d19-aac5-3338e1331d6c
+
+
+
 ## Features
 
 - **Pre-trained ResNet50 Base Model**: The project uses the ResNet50 model without the top layer as the base for transfer learning.
