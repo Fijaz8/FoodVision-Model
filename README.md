@@ -9,10 +9,7 @@ FoodVision is designed to help in the classification of 15 different categories 
 
 Here is a demonstration of the FoodVision model in action:
 
-<video width="600" controls>
-  <source src="D:\cnn binary classification\FoodVision-Model\DATA\Demo video\mylinked.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ## Features
 
