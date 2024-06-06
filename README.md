@@ -5,6 +5,14 @@ This repository contains the code and resources for the FoodVision model, a fine
 ## Project Overview
 
 FoodVision is designed to help in the classification of 15 different categories of Indian cuisine. By utilizing the pre-trained ResNet50 architecture, this project demonstrates how transfer learning can be applied to a specific domain of food classification. The model has been fine-tuned and optimized for accuracy.
+## Model Demo
+
+Here is a demonstration of the FoodVision model in action:
+
+<video width="600" controls>
+  <source src="D:\cnn binary classification\FoodVision-Model\DATA\Demo video\mylinked.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Features
 
